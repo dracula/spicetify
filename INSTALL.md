@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/Darkempire78/Dracula-Spicetify.git
+    $ git clone https://github.com/dracula/spicetify.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/Darkempire78/Dracula-Spicetify/archive/refs/heads/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/spicetify/archive/refs/heads/master.zip) option and unzip them.
 
 #### Activating theme
 

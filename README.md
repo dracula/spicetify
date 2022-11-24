@@ -6,11 +6,11 @@
 
 ## Install
 
-All instructions can be found [here](INSTALL.md).
+All instructions can be found at [draculatheme.com/spicetify](https://draculatheme.com/spicetify).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/spicetify/graphs/contributors).
 
 [![Zeno Rocha](https://github.com/Darkempire78.png?size=100)](https://github.com/Darkempire78) |
 --- |
